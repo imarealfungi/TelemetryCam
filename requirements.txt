@@ -1,0 +1,4 @@
+# Core dependencies — no install needed for AC, ACC, LMU/rF2 (use Windows shared memory/UDP)
+
+# iRacing only — skip if you don't use iRacing
+pyirsdk
